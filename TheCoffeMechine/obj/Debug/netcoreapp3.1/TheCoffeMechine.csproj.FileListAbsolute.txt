@@ -1,0 +1,11 @@
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.exe
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.deps.json
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.json
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.dev.json
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.dll
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.pdb
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csprojAssemblyReference.cache
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfoInputs.cache
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfo.cs
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.dll
+F:\AMIKOM\TheCoffeMechine2\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.pdb
